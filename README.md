@@ -1,0 +1,2 @@
+# Marketing-funnel-and-conversion-performance
+Customer Retention &amp; Churn Analysis project completed as part of my Data Science &amp; Analytics Internship at Future Interns. Analyzed customer and subscription data to identify churn patterns, retention trends, and customer lifetime insights using Python, Pandas, Matplotlib, and Power BI, providing actionable recommendationstoimprovecustomerretention
